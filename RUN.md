@@ -1,2 +1,2 @@
 Este es un taller de git
-Holaaskfaf123@
+Jose Marin
